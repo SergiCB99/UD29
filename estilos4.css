@@ -1,0 +1,19 @@
+h1{
+    background-color: orange;
+    font-size: 30px;
+}
+h2{
+    color:cornflowerblue;
+    font-size: 40px;
+    font-style: italic;
+}
+html{
+    background-color: #ffefd5;
+}
+h3{
+    color:#3B539B;
+}
+span{
+    color:#5881FC;
+    font-style: italic;
+}
